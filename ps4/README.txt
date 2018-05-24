@@ -27,3 +27,6 @@ $ python dnaseq.py data/inputa0.fa data/inputb0.fa output.png
 
 (You should change the first two arguments to match the inputs you're
 interested in.)
+
+
+testing testing
